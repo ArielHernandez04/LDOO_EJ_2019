@@ -1,0 +1,8 @@
+Laboratorio de Diseño Orientado a Objetos
+Práctica 5 y 6
+Grupo: 006
+Ángel Ariel Hernández Garza
+Matrícula: 1872306
+LSTI
+
+NOTA: Realicé la actividad en NetBeans, así que he adjuntado todo el proyecto generado aquí.
